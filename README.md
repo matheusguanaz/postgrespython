@@ -9,7 +9,7 @@ The package postgrespython is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install postgrespython
+pip install -i https://test.pypi.org/simple/ postgrespython==0.0.2
 ```
 
 ## Usage
